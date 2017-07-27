@@ -1,4 +1,4 @@
-#Hack for LA's Code of Conduct
+# Hack for LA's Code of Conduct
 [![Slack](http://hackforla-slack.herokuapp.com/badge.svg)](http://hackforla-slack.herokuapp.com)
 
 This document is forked from the [The Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct). Hack for LA expects that all network activities, events, and digital forums:
@@ -18,7 +18,7 @@ This document is forked from the [The Code for America Code of Conduct](https://
 
 Hack for LA reserves the right to ask anyone in violation of these policies not to participate in Hack for LA network activities, events, and digital forums.
 
-####Hack for LA's Anti-Harassment Policy
+#### Hack for LA's Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -44,7 +44,7 @@ You can also contact Hack for LA about harassment at info@hackforla.org and feel
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+#### Email Template for Anti-Harassment Reporting
 
 TO: Hack for LA Organizers info@hackforla.org
 
